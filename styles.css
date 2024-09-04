@@ -1,0 +1,18 @@
+.button{
+    color: rgb(68, 0, 255);
+}
+.box a{
+    text-decoration: none;
+    background-color: aqua;
+    border-radius: 10px;
+    
+    width: 100px;
+    height: 30px;
+}
+.box{
+    background-color: beige;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
